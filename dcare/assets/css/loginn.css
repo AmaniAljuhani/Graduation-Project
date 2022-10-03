@@ -1,0 +1,115 @@
+/* Start Main Rules */
+
+.alert-danger{
+	
+	display: none;
+	margin-top: 0;
+	margin-top: 10px
+	
+}
+.astrisk{
+	
+	font-size: 30px;
+	position: absolute;
+	right: 280px;
+	top: 8px;
+	color: #D20707
+		
+}
+
+.login .ast{
+	
+	position: relative
+}
+.login .astrisk{
+	
+	font-size: 30px;
+	position: absolute;
+	right: 335px;
+	top: 4px;
+	color: #D20707
+	
+}
+.login .ast .show-pass{
+	
+	position: absolute;
+	top: 6px;
+	right: 280px;
+	color: #888;
+	font-size: 20px;
+	cursor: pointer
+
+}
+.login .ast i{
+	
+	height: 0;
+	float: right;
+	position: relative;
+	top: -45px;
+	color: #A3A697
+	
+}
+.login .ast .custom-alert,
+.login .ast .empty-alert,
+.login .ast .long-alert{
+	
+	padding: 6px;
+	display: none
+	
+}
+.login .ast .check,
+.login .ast .close{
+	
+	display: none
+	
+}
+.login .ast .close{
+	
+	font-size: 20px;
+	position: absolute;
+	right: 255px;
+	top: 5px;
+	color: #D20707;
+	background-color: #D20707
+		
+}
+.login .ast .check{
+	
+	font-size: 20px;
+	position: absolute;
+	right: 255px;
+	top: 5px;
+	color: #080;
+	background-color: #080
+}
+.login .ast .check-pass{
+	
+	font-size: 20px;
+	position: absolute;
+	right: 235px;
+	top: 5px;
+	color: #080;
+	background-color: #080
+}
+.login .ast .close-pass{
+	
+	font-size: 20px;
+	position: absolute;
+	right: 235px;
+	top: 5px;
+	color: #D20707;
+	background-color: #D20707
+}
+
+
+/* Start Form Contact */
+
+.login .ast i{
+	
+	height: 0;
+	float: right;
+	position: relative;
+	top: -45px;
+	color: #A3A697
+	
+}
